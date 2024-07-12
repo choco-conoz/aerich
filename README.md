@@ -282,3 +282,9 @@ await command.migrate('test')
 
 This project is licensed under the
 [Apache-2.0](https://github.com/long2ice/aerich/blob/master/LICENSE) License.
+
+
+Fork
+=======
+
+Yongkyu Cho (https://www.conoz.com)
